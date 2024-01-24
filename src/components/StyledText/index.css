@@ -1,0 +1,9 @@
+.texts{
+    background-color: rgb(131, 167, 169);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.texts p{
+    font-size: 20px;
+}
