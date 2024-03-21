@@ -6,7 +6,7 @@ const AlertButton = ({label}) => {
 }
 
 AlertButton.defaultProps = {
-    label: 'A label desse botão é Desafio 2',
+    label: 'A label desse botão é Desafio 2'
 }
 
 export default AlertButton

@@ -11,4 +11,4 @@ Desafio realizado no curso Dev em Dobro
 
 ### Visão geral do projeto
 
-![](././src/images/vite-react-js.png)
+![](././src/images/react-base-desktop.png)
